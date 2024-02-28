@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>EasyStuff</title>
+</head>
+<div id="menu"align="middle">
+    <a href="/index.html">HOME</a>|
+    <a href="/index.html">ABOUT</a>|
+    <a href="/index.html">CONTACT</a>
+    <br>
+    <h1><u>EasyStuff</u></h>
+    <h3 align="left"><u>Introduction</u></h3>
+<body>
+     <p align="left">Welcome to the <b><i>EasyStuff</i></b> official music website.Here, you will find the best music playlists, acording to your current emotional state. So please, feel free to enjoy</p>
+     <style type="text/css">
+       body {
+             color: white;
+             text shadow: 0px;
+            }
+     </style>
+     <link rel="stylesheet" href="style.css">
+  <p align="left">In this website, you can also download any music you want from youtube. Just type it in the search box and it will be available for download.
+  <br>
+  <br>
+  (All Video and Audio Formats are supported)</p>
+  <hr>
+  <input type="search box">
+  <br>
+  <button id="press"singleclick="pressplay"><p>search</p></button>
+  <hr>
+  <body background="/storage/emulated/0/download/space-animation-animated-astronaut.png"></body>
+  <p align="left">This site also includes media converters.</p>
+  <br>
+  <p align="left">This includes:</p>
+  <div align="left">
+  <ul>~Mp3 converters</ul>
+  <ul>~Mp4 converters</ul>
+  <ul>~M4a converters</ul>
+  <ul>~Wav converters</ul>
+  </div>
+  <!-- More content about the site -->
+<meta http-equiv="refresh"content="delay_time;URL=new_website_url">
+  </body>
+  <hr>
+  <footer align="middle">EasyStuff@2024
+  </footer>
+  <hr>
+  </html>
+  
